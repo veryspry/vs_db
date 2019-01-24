@@ -1,0 +1,8 @@
+{
+  "id": { "S": "0b66bd63-33b1-4add-8c53-db8f3120a58f" },
+  "album": { "S": "Test Album" },
+  "artist": { "S": "Test Artist" },
+  "isAlbum": { "BOOL": true },
+  "summaryID": { "S": "490773e2-d9fd-4824-a3de-e2a740534e3f" },
+  "created": { "S": "1993-09-07T21:00:00Z" }
+}
