@@ -1,9 +1,9 @@
 {
-  "id": { "S": "9ec8ad63-1664-46b4-920c-1c532a0cc002" },
-  "country": { "S": "Ethiopia" },
-  "name": { "S": "Yirgacheffe" },
+  "id": { "S": "b4648a58-8e81-4fe7-b00c-9346712e7c7f" },
+  "country": { "S": "Honduras" },
+  "name": { "S": "Agalta" },
   "roaster": { "S": "Ruby" },
-  "varietal": { "SS": ["Gesha"] },
+  "varietal": { "SS": ["Bourbon", "Typica"] },
   "processType": { "S": "Washed" },
   "summaryID": { "S": "490773e2-d9fd-4824-a3de-e2a740534e3f" },
   "created": { "S": "1993-09-07T21:00:00Z" }
